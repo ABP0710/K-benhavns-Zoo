@@ -56,7 +56,9 @@ namespace Københavns_Zoo
 
             FoodD.WaterAnimal("hippopotamus");
 
-            //HR change the name on the zookeepers
+            //here is some issues
+            //there is no errors, but still
+            //HR cant change the name on the zookeepers
             hr1.ChangeName(keeper1, "Bob");
         }
     }
